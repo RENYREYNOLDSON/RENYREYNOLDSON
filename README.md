@@ -1,6 +1,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RENYREYNOLDSON&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RENYREYNOLDSON&theme=github_dark)
+<table>
+  <td>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RENYREYNOLDSON&theme=github_dark)
+  </td>
+  
+</table>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RENYREYNOLDSON&theme=github_dark)
 
